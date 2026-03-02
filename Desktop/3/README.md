@@ -1,6 +1,6 @@
-# PII Detection & Redaction Tool
+# PII SHIELD
 
-A powerful web application for detecting and redacting Personally Identifiable Information (PII) from documents, with support for multiple file formats and real-time visualization.
+A powerful web application for detecting and redacting Personally Identifiable Information (PII) from documents, with support for multiple file formats and real-time visualization. PII SHIELD uses advanced AI-powered detection to identify sensitive data and provides instant masking capabilities.
 
 ## 🎯 Features
 

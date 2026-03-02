@@ -1,7 +1,7 @@
 {
-  "name": "vite-react-typescript-starter",
+  "name": "pii-shield",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -20,8 +20,7 @@
     "react-cytoscapejs": "^2.0.0",
     "react-dom": "^18.3.1",
     "react-dropzone": "^14.2.3",
-    "react-hot-toast": "^2.4.1",
-    "vite-react-typescript-starter": "file:"
+    "react-hot-toast": "^2.4.1"
   },
   "devDependencies": {
     "@eslint/js": "^9.9.1",
