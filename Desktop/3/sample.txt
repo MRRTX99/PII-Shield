@@ -1,0 +1,25 @@
+Document for PII Detection Testing
+
+This document contains various types of personally identifiable information (PII) 
+that the system should be able to detect and redact:
+
+CONTACT INFORMATION:
+- Name: Morgan Richardson
+- Address: 742 Evergreen Terrace, Portland, OR 97205
+- Phone: (+91) 1234567801
+- Email: morgan.r@westcoastmail.net
+
+FINANCIAL INFORMATION:
+- Credit Card: 4111 2222 3333 4444
+- Account Number: 87654321
+- Routing Number: 021000021
+
+GOVERNMENT IDENTIFIERS:
+- SSN: 872-45-9301
+- Driver's License: OR-D1234567
+- Passport: C12345678
+
+PROFESSIONAL DETAILS:
+- Employer: Cascade Technologies Inc.
+- Position: Senior Data Analyst
+- Employee ID: CT-58392 
